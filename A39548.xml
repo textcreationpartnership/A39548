@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fair warning from Tyburn, or, The Several confessions and execution of the fifteen notorious malefactors that suffered there on Munday the 8 of March, 1679/80</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39548</idno>
+            <idno type="STC">Wing F103</idno>
+            <idno type="STC">ESTC R43162</idno>
+            <idno type="EEBO-CITATION">26925112</idno>
+            <idno type="OCLC">ocm 26925112</idno>
+            <idno type="VID">109865</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39548)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109865)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1716:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fair warning from Tyburn, or, The Several confessions and execution of the fifteen notorious malefactors that suffered there on Munday the 8 of March, 1679/80</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication sugggested by Wing.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Executions and executioners --  England.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:109865:1" rendition="simple:additions"/>
+            <head>
+               <hi>Fair Warning from TYB<g ref="char:V">Ʋ</g>RN:</hi> Or, the ſeveral CONFESSIONS and EXECUTION OF The FIFTEEN notorious MALEFACTORS That ſuffered there on <hi>Munday</hi> the 8 of <hi>March,</hi> 1679/80.</head>
+            <argument>
+               <head>VIZ.</head>
+               <p>
+                  <list>
+                     <item>
+                        <hi>William Harris,</hi>
+                     </item>
+                     <item>
+                        <hi>John Anderſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Joſeph Philips,</hi>
+                     </item>
+                     <item>
+                        <hi>Timothy Grady,</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Grady,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Hodgkinſon,</hi>
+                     </item>
+                     <trailer>HIGHWAY-MEN.</trailer>
+                  </list>
+
+
+                  <list>
+                     <item>
+                        <hi>John Braford,</hi>
+                     </item>
+                     <item>
+                        <hi>William Carter,</hi>
+                     </item>
+                     <trailer>For ſeveral Burglaries and Robberies.</trailer>
+                  </list>
+
+
+                  <list>
+                     <item>
+                        <hi>William Woodward,</hi>
+                     </item>
+                     <item>
+                        <hi>William Weſt,</hi>
+                     </item>
+                     <item>
+                        <hi>Evan Wood,</hi>
+                     </item>
+                     <trailer>For ſeveral Felonies, being burnt in the hand before.</trailer>
+                  </list>
+
+                  <list>
+                     <item>
+                        <hi>Randal Ruſſel,</hi>
+                     </item>
+                     <trailer>For breaking the Goal of <hi>Newgate;</hi> burnt in the hand before.</trailer>
+                  </list>
+
+                  <list>
+                     <item>
+                        <hi>Frances Lewis,</hi>
+                     </item>
+                     <item>
+                        <hi>Dorothy Clarke,</hi> &amp;</item>
+                     <item>
+                        <hi>Dorothy Hall,</hi>
+                     </item>
+                     <trailer>For divers Felonies; all old Offenders.</trailer>
+                  </list>
+               </p>
+               <p>With the Behaviour of each Perſon in Priſon after Sen<g ref="char:EOLhyphen"/>tence, and laſt Words in the Cart.</p>
+            </argument>
+            <p>'TIS but vain to make a long Prologue to this Tra<g ref="char:EOLhyphen"/>gedy; for though the nature of the Subject might ſeaſonably enough afford an Exhortation, yet ſo hard<g ref="char:EOLhyphen"/>ned are People in their wickedneſs, that little Reformation can be hoped for from them: For ſince they are grown Ser<g ref="char:EOLhyphen"/>mon-proof, what Effects can we expect from the Remonſtrances
+<pb n="2" facs="tcp:109865:2"/>of a Pamphlet? and when the terrible and untimely Suf<g ref="char:EOLhyphen"/>ferings of their Companions can make no impreſſion on their ſteeled Hearts and ſeared Conſciences, we may well deſpair of ſucceſs from any words we can uſe: Therefore we ſhall immediately addreſs our ſelves to give the Reader an Ac<g ref="char:EOLhyphen"/>count of the Behaviour of this numerous Shoal of Criminals, and manner of their juſt Suffering; leaving every one to make ſuch Application thereof to himſelf, as God ſhall put into his heart. — <hi>He that hath an ear to hear, let him hear.</hi>
+            </p>
+            <p>ON <hi>Munday</hi> the firſt of <hi>March,</hi> there were in all Twenty five that received Sentence of Death; of whom ſome ob<g ref="char:EOLhyphen"/>tained a gracious Reprieve: The reſt were now brought to Suffer. Their Crimes were briefly as follow:</p>
+            <p>
+               <hi>William Harris, John Anderſon,</hi> and <hi>Joſeph Philips,</hi> were Con<g ref="char:EOLhyphen"/>demned for Robbing of <hi>William Northey</hi>
+               <abbr>Eſq</abbr> and others, upon the Kings Highway, of Goods to the value of One hundred and fifty pounds. They were Foot-padds, as they are uſually called, and 'tis ſaid had long followed that wicked Occupation. As <hi>Harris</hi> was the Ring-leader of them; as 'tis ſuppoſed, to this Vil<g ref="char:EOLhyphen"/>lany; ſo after Condemnation he behaved himſelf moſt ſtubbornly, ſeeming nothing to mind the Condition he was in, or to have any ſerious thoughts concerning the future ſtate of his Soul.</p>
+            <p>
+               <hi>Timothy Grady</hi> and <hi>Edward Grady</hi> were Brethren by Nature, as well as in Iniquity: Their Crime was for Robbing of <hi>Richard Holder</hi> and his Wife on the High-way, not far from <hi>
+                  <g ref="char:V">Ʋ</g>xbridge;</hi> from whom they took in Money, Rings, <hi>&amp;c.</hi> to the value of 14 <abbr>
+                  <hi>l.</hi>
+               </abbr> 7 <abbr>
+                  <hi>s.</hi>
+               </abbr> and particularly a Campaign Coat, which was found upon one of their backs, when they were apprehended two days after. This <hi>Timothy</hi> appeared all along in a very penitent frame, giving himſelf much to Prayer, Reading, and diligent Attention to the Chriſtian Advice and Exhortations of ſeveral Miniſters that came to ſee him; And was very deſirous to have ſaved his Brothers Life, ſaying, <hi>That he feared he was not in a fit Condi<g ref="char:EOLhyphen"/>tion to Die.</hi>
+            </p>
+            <p>
+               <hi>Richard Hodgkinſon</hi> Suffered likewiſe for two Robberies, both committed on the Road upon one <hi>Jonathan Man,</hi> at ſeveral times; taking from him to the value of 50 <abbr>
+                  <hi>s.</hi>
+               </abbr> one time, and 6 <abbr>
+                  <hi>s.</hi>
+               </abbr> another. He appeared very reſolute and unconcerned to the laſt.</p>
+            <pb n="3" facs="tcp:109865:2"/>
+            <p>
+               <hi>John Braford</hi> was Condemned for ſeveral Robberies and Bur<g ref="char:EOLhyphen"/>glaries.</p>
+            <p>
+               <hi>Robert Lewis</hi> for two Burglaries, and ſtealing Goods and Rib<g ref="char:EOLhyphen"/>bon, to the value of 8 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>
+               <hi>William Carter</hi> for a Burglary, and Stealing two Flitches of Bacon; of whoſe Behaviour we can ſay very little, but <hi>Qualis Vita, Finis ita.</hi>
+            </p>
+            <p>
+               <hi>Evan Wood</hi> received Sentence for ſtealing of Books from <hi>Nor<g ref="char:EOLhyphen"/>man Nelſon;</hi> a juſt Judgment, that the ſame thing ſhould bring him to the Gallows, which once ſaved him from it. For this was he that two or three Seſſions ago had the Mercy of the Book, for ſtealing 1600 <abbr>
+                  <hi>l.</hi>
+               </abbr> from <abbr>Eſq</abbr> 
+               <hi>Hooker.</hi> He was now ſick, and ſeemed very little apprehenſive of any Applications that were made to him for his Souls Health by the Miniſters.</p>
+            <p>
+               <hi>William Woodward</hi> was likewiſe very ſick, being Sentenced for ſtealing a Silver Tankard from <hi>Ralph Lodge,</hi> of the value of 6 <abbr>
+                  <hi>l.</hi>
+               </abbr> 10 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p>
+               <hi>William Weſt</hi> for a ſmall Felony; but he and the former burnt in the Hand before</p>
+            <p>
+               <hi>Randal Ruſſel</hi> was one of the ſix that lately broke out of the Goal of <hi>Newgate,</hi> being committed thither for breaking open a Chamber in <hi>New-Inne,</hi> and ſtealing thence Three hundred pounds. He was a moſt obſtinate obdurate fellow, without any kind of Remorſe; and rather ſcoft at than valued any good Advice that was given him.</p>
+            <p>The three women, <hi>Frances Lewis, Dorothy Clarke,</hi> and <hi>Dorothy Hall,</hi> were for ſeveral Felonies, having ſeveral times before been concerned in ſuch lewd Practices, and received the Mercy of the Bench, but would not be reclaimed; and therefore were thought fit to be made Examples, ſince they would not take any.</p>
+            <p>Between the time of Condemnation and that of Execution, divers worthy Miniſters charitably offered their Pains to theſe wretched Criminals; endeavouring with earneſt Exhortations to bring them to a ſenſe of their deplored eſtate, and a due ſight of their ſins; and inſtructing them in the nature of Chriſtian Religion, to the Life and Power whereof theſe poor Creatures ſeemed utterly ſtrangers; they likewiſe Prayed often with them very affectionately, and 'tis hoped, through Grace, their Labours
+<pb n="4" facs="tcp:109865:3"/>were not without good ſucceſs on ſeveral of their Souls. Exe<g ref="char:EOLhyphen"/>cution being reſpited ſo long, that they might have the benefit of one Lords-day; to prepare themſelves for Death. The Mi<g ref="char:EOLhyphen"/>niſter in his Sermons was very laborious and zealous to improve that opportunity to the advantage of their Souls: And ſeveral of them, by their outward Deportment, ſeemed much affected with the Word Preached, and to join very heartily in the Publick Prayers.</p>
+            <p>Two of them in private Diſcourſes to their Friends, made large and particular acknowledgments of their Crimes; being ſo many and various, that thoſe that heard them were ſur<g ref="char:EOLhyphen"/>prized with Admiration, to think that men of their years could be Guilty of ſuch a multitude of Thefts and Villanies. They expreſſed a great deſire to have made ſatisfaction, if they had been able, to all they had wronged; but that being impoſſible, all they could do was to declare, where ſeveral parcels of Goods which they had ſtoln, were laid and diſpoſed of, that the Owners might have the ſame again.</p>
+            <p>Another of theſe Priſoners Confeſſed, that he had followed the Trade of a Thief, and had no other employment ever ſince he was Five Years of Age; and with many tears accuſed his Pa<g ref="char:EOLhyphen"/>rents, for promoting his ruine, by encouraging or at leaſt winking at his petty Childiſh Thefts, and not ſufficiently Correcting him for the ſame; whereby he became emboldened to go on, and at<g ref="char:EOLhyphen"/>tempt greater Rogueries, which now brought him to this untimely End. A notable Warning to all Parents, to avoid ſuch a courſe as gives their Children juſt occaſion to curſe their Memories; and accuſe their Fondneſs, as the principal Cauſe of their Deſtruction,</p>
+            <p>They were carryed to <hi>Tyburn</hi> in five Carts; in the firſt, <hi>Hodgkinſon, Braford,</hi> and <hi>Ruſſel;</hi> in the ſecond, <hi>Anderſon,</hi> and the two <hi>Gradies,</hi> who were Papiſts, in the third, <hi>Harris,</hi> and <hi>Weſt,</hi> whereof one did lamentably bewail his condition, and beg the Prayers of all the Spectators: then came the Three Women in a Cart by themſelves; and in another, ſome diſtance after them, <hi>Wood, Carter,</hi> and <hi>Woodward.</hi>
+            </p>
+            <p>The reſt of the Priſoners Condemned, (amongſt whom were <hi>James Baker, ali<g ref="char:EOLhyphen"/>as Heskins,</hi> the <hi>Romiſh Prieſt,</hi> and <hi>Tobias Butler,</hi> for Murdering Mr. <hi>Symonds</hi> in <hi>Gardiners-lane Weſtminſter</hi>) are for the preſent Reprieved.</p>
+            <p>At the place of Execution they ſpoke very little, but what is uſual on ſuch doleſome occaſions; deſiring all people to take warning by them, in avoiding idleneſs, bad Company, and lewd Women, and neglecting the publick Wor<g ref="char:EOLhyphen"/>ſhip of God, which had engaged them in theſe wicked courſes, and brought them to this untimely diſaſtrous end.</p>
+            <p>
+               <hi>Philips</hi> juſt at his going into the Cart, was ſtopt in expectation of a Reprieve; but though an Honourable perſon interceded, yet it could not be obtained, ſo that about an hour after the reſt, he was carried away in a Cart by himſelf.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
